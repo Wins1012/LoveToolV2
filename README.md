@@ -18,10 +18,8 @@
 * ```git clone https://github.com/VH006/LoveToolV2```
 * ```cd LoveToolV2```
 * ```sh start.sh```
-* 
 # Video Hướng Dẫn
 * https://youtu.be/GVdXKgFA2gc
-* 
 # Contact Me 
 * Telegram: @hungtricker
 * Zalo: 0359822840
